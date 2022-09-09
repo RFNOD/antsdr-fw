@@ -41,6 +41,7 @@ sudo apt-get remove libfdt-de
 ```
 
 ### Get source code and setup bash
+## Check your paths! Chnage it where you have Vivado installed on your system.
 
 ```bash
 git clone --recursive https://github.com/MicroPhase/antsdr-fw.git
